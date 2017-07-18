@@ -11,3 +11,6 @@ http://www.tuicool.com/articles/fiYJry
 
 JavaScript 继承代码中，B.prototype = new A(); 的含义是什么？
 https://www.zhihu.com/question/20801227?sort=created
+
+JavaScript 常用方法总结
+https://zhuanlan.zhihu.com/p/27867969
