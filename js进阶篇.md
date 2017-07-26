@@ -26,3 +26,9 @@ https://github.com/oakland/Native-JS-Practice/blob/master/11-learnOOPfromCircles
 
 重新介绍 JavaScript（JS全面系列教程）
 https://blog.ihoey.com/posts/javascript/2017-07-03-A_re-introduction_to_JavaScript.html
+
+编写自己的代码库（javascript常用实例的实现与封装）
+https://segmentfault.com/a/1190000010225928?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader38
+
+什么情况下使用module.exports,什么时候用exports.attr?
+http://www.imooc.com/qadetail/115826?lastmedia=1
