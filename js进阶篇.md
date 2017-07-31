@@ -32,3 +32,6 @@ https://segmentfault.com/a/1190000010225928?utm_source=weekly&utm_medium=email&u
 
 什么情况下使用module.exports,什么时候用exports.attr?
 http://www.imooc.com/qadetail/115826?lastmedia=1
+
+awesome-atom-packages
+https://github.com/shery15/awesome-atom-packages/blob/master/README-zh.md
