@@ -26,3 +26,18 @@ http://www.cnblogs.com/cuiyansong/p/4943540.html
 
 webpack入坑之旅（一）不是开始的开始
 https://blog.guowenfh.com/2016/03/24/vue-webpack-01-base/
+
+认识Webpack
+http://www.cnblogs.com/libin-1/p/5907412.html
+
+mtsee/mtui2.0[mtui2.0]
+https://github.com/mtsee/mtui2.0
+
+redux中文文档
+http://cn.redux.js.org/
+
+MobX 简单、高扩展的状态管理库
+https://suprise.gitbooks.io/mobx-cn/content/fp.html
+
+Redux系列01：从一个简单例子了解action、store、reducer
+https://segmentfault.com/a/1190000004208610
