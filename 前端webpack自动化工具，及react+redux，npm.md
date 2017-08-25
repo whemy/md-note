@@ -44,3 +44,6 @@ https://segmentfault.com/a/1190000004208610
 
 理解 React，但不理解 Redux，该如何通俗易懂的理解 Redux？
 https://www.zhihu.com/question/41312576?sort=created
+
+【翻译】这个API很“迷人”——(新的Fetch API)
+https://www.w3ctech.com/topic/854
